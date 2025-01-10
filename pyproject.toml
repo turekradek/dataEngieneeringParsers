@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dataEngieneeringParsers"
+version = "0.1.0"
+description = "A brief description of your project"
+authors = ["turekradek <turekradek@gmail.com>"]
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
