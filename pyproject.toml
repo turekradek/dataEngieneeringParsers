@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dataEngieneeringParsers"
+name = "dataEngieneeringProject"
 version = "0.1.0"
 description = "A brief description of your project"
 authors = ["turekradek <turekradek@gmail.com>"]
